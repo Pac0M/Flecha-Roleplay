@@ -1,5 +1,5 @@
 # Flecha-Roleplay
-Servidor de SA-MP (2018 - 2021) ()
+Servidor de SA-MP 
 
 
 Recursos-dependencias base Flecha Roleplay
